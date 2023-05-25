@@ -40,6 +40,7 @@
 - 🔗 [Zod Official Site](https://nextjs.org/)
 - 🔗 [React-Hook-Form](https://www.react-hook-form.com/)
 - 🔗 [NPM: @hookform/resolvers](https://www.npmjs.com/package/@hookform/resolvers)
+- 🔗 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
   
 ### ⚙ Free Web Dev Tools
 - 🔗 [Vite](https://vitejs.dev/)
@@ -47,7 +48,6 @@
 - 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
 - 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
 - 🔗 [Node.js & NPM](https://nodejs.org/en/)
-- 🔗 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
 - 🔗 [ES7 React Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 
