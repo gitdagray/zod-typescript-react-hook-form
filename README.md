@@ -37,7 +37,7 @@
 
 ---
 ### 📚 Tutorial References
-- 🔗 [Zod Official Site](https://nextjs.org/)
+- 🔗 [Zod Official Site](https://zod.dev/)
 - 🔗 [React-Hook-Form](https://www.react-hook-form.com/)
 - 🔗 [NPM: @hookform/resolvers](https://www.npmjs.com/package/@hookform/resolvers)
 - 🔗 [{JSON} Placeholder](https://jsonplaceholder.typicode.com/)
